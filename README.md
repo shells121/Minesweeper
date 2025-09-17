@@ -1,11 +1,11 @@
 A Minesweeper game built in React. Choose difficulty levels and flag bombs!
 
-You need Node.js in order to run it.
+## Prerequisites
+- Node.js (>=18 recommended)
+- npm or yarn
 
-Clone the repository and run:
-  git clone https://github.com/yourusername/minesweeper.git
-  cd minesweeper
-  npm install
-
-To start application, run:
-npm run start
+## Installation
+```bash
+git clone https://github.com/yourusername/minesweeper.git
+cd minesweeper
+npm install
