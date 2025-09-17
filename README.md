@@ -6,7 +6,7 @@ A Minesweeper game built in React. Choose difficulty levels and flag bombs!
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/minesweeper.git
+git clone https://github.com/shells121/minesweeper.git
 cd minesweeper
 npm install
 npm start
